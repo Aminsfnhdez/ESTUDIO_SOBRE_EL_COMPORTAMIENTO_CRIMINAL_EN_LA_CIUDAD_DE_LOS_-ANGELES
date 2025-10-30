@@ -1,3 +1,10 @@
+// Este archivo contiene los enlaces a las fuentes de datos utilizadas 
+// para el análisis del comportamiento criminal en la ciudad de Los Ángeles entre 2020 y 2024. 
+// Incluye el origen de los datos originales, así como las versiones en bruto y transformada de los datos 
+// empleadas en el proyecto.
+// Al final, se listan los nombres de los integrantes responsables del estudio.
+// Isaac Amín Sofán Hernández, José Luis Córdoba Roldán
+
 Origen de Datos Original: https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
 Datos en Bruto: https://drive.google.com/file/d/1dlbD4gXny8NKlKF9ePqDxB1jJd9NrPMC/view?usp=sharing
 Datos Transformados: https://drive.google.com/file/d/1o3gCOuhobE5pWPIKASxJ39644IsTAF5q/view?usp=sharing

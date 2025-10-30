@@ -1,3 +1,9 @@
+/*
+Script para crear la base de datos DBIncidencias_crimenes_LA
+ESTUDIO SOBRE EL COMPORTAMIENTO CRIMINAL EN LA 
+CIUDAD DE LOS ÁNGELES - CALIFORNIA DESDE 2020 HASTA 2024 
+Isaac Amín Sofán Hernández, José Luis Córdoba Roldán
+*/
 USE [master]
 GO
 
